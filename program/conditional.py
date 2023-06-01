@@ -1,7 +1,3 @@
-# Try Python
-print('Hello World')
-print("Destin here, let's start our journey in learning Python")
-
 # Conditional/Branching
 milk_bottle_count = 100
 egg_count = 7
@@ -30,20 +26,3 @@ if budi_money > 0:
         print("Not enough egg stock")
 else:
     print("There's no enough money")
-
-
-# Looping
-# For looping
-
-print("=====================================================")
-print("                  READING BOOK PROGRAM              ")
-books = 10
-read_book = 0
-
-print("Let's read books and get bunch of knowledge!!!")
-for i in range(0, books):
-    print(f"Book {i+1} has been read")
-    read_book += 1
-
-print("Finish reading all books")
-print("=====================================================")
