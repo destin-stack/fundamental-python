@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Leanna Graham",
+  "username": "Bret",
+  "email": "sincere@april.biz",
+  "address": {
+    "street": "West Avenue St",
+    "suite": "Apt. 556",
+    "city": "Gwen borough",
+    "zipcode": "92998-3874"
+  }
+}
